@@ -1,2 +1,2 @@
 # configs
-Configs for Vim and ZSH
+Configs for Vim, ZSH, and Git
