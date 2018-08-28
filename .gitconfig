@@ -1,0 +1,8 @@
+[alias]
+    s = status
+    c = commit -m
+    a = add .
+    p = push
+[user]
+	email = pmkumar@andrew.cmu.edu
+	name = Pranav Kumar
